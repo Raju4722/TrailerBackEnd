@@ -1,0 +1,1 @@
+insert into trailer (id,name,price) values(110,'Raju',10000);
